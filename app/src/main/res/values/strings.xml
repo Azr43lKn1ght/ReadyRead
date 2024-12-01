@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">readyread</string>
+    <string name="profile">Profile</string>
+    <string name="search_for_books">Search for books</string>
+    <string name="search">Search</string>
+</resources>
